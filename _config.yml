@@ -1,11 +1,11 @@
 # Site settings
 author: Cameron Hudson
-title: 
+title: Whats the reason I decided to learn Software Engineering?
 header-img: img/home-bg.png
 email: camnn3@yahoo.com
 copyright_name: Cameron Hudson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The beginning of why I decided to choose Software engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  LostnBlight
